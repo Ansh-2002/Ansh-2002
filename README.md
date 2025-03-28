@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a full-stack web developer in a startup <br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for help with Anything technical, in the domain of computer science<br>🌱 I’m currently learning next.js and  flutter<br>💬 Ask me about Python, JavaScript,  DSA, C++, React, Node<br>📄 Know about my experiences https://docs.google.com/document/d/1azeMPAyoV0nAc4g5yXg-__PRzKurZ9YxSdEvl0VmaRU/edit?usp=sharing<br>📫 How to reach my mail- anshdeep0singh@gmail.com, LinkedIn- https://www.linkedin.com/in/anshdeep-singh-5763091ba/<br>⚡ Fun fact I love listening to Pop music and studying Cosmos
+🔭 I’m currently working as a full-stack web developer in a startup <br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking to give and take help with Anything technical, in the domain of computer science<br>🌱 I’m currently learning next.js and  flutter<br>💬 Ask me about Python, JavaScript,  DSA, C++, React, Node<br>📄 Know about my experiences https://docs.google.com/document/d/1azeMPAyoV0nAc4g5yXg-__PRzKurZ9YxSdEvl0VmaRU/edit?usp=sharing<br>📫 How to reach my mail- anshdeep0singh@gmail.com, LinkedIn- https://www.linkedin.com/in/anshdeep-singh-5763091ba/<br>⚡ Fun fact I love listening to Pop music and studying Cosmos
 
 
 ## 🌐 Socials:
